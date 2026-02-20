@@ -19,12 +19,6 @@
 <!-- GitHub Streak 动画 -->
 <img src="https://streak-stats.demolab.com?user=ChenyuHeee&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=888888" />
 
-<br/>
-
-<!-- GitHub Stats + Top Langs -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ChenyuHeee&show_icons=true&theme=transparent&hide_border=true&count_private=true&icon_color=58A6FF&title_color=58A6FF&text_color=AAAAAA" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyuHeee&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=AAAAAA" />
-
 <br/><br/>
 
 <!-- GitHub Activity Graph -->
