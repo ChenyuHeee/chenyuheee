@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- 动态打字机效果 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=28&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Chenyu;CS Student from Zhejiang University" alt="Typing SVG" /></a>
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=28&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Chenyu;CS Student from Zhejiang University" alt="Typing SVG" /></a>-->
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=28&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Chenyu;CS+Student+from+Zhejiang+University" alt="Typing SVG" />
 
 <!-- 社交链接 -->
 <br/>
