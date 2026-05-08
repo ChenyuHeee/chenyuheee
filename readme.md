@@ -17,9 +17,9 @@
 <!--<br/><br/>-->
 
 <!-- GitHub Streak 动画 -->
-<img src="https://streak-stats.demolab.com?user=ChenyuHeee&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=888888" />
+<!--<img src="https://streak-stats.demolab.com?user=ChenyuHeee&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=888888" />-->
 
-<br/><br/>
+<!--<br/><br/>-->
 
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChenyuHeee&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%"/>
