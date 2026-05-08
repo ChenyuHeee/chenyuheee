@@ -12,9 +12,9 @@
 <br/><br/>
 
 <!-- 技术栈图标动画 -->
-<img src="https://skillicons.dev/icons?i=swift,python,c,html,css,js,git,github,vscode&theme=dark" />
+<!--<img src="https://skillicons.dev/icons?i=swift,python,c,html,css,js,git,github,vscode&theme=dark" />-->
 
-<br/><br/>
+<!--<br/><br/>-->
 
 <!-- GitHub Streak 动画 -->
 <img src="https://streak-stats.demolab.com?user=ChenyuHeee&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=888888" />
