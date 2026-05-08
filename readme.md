@@ -22,9 +22,9 @@
 <!--<br/><br/>-->
 
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChenyuHeee&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%"/>
+<!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChenyuHeee&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%"/>-->
 
-<br/><br/>
+<!--<br/><br/>-->
 
 <!-- 吃豆人贡献图 -->
 <picture>
@@ -36,6 +36,6 @@
 <br/>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=ChenyuHeee&color=58A6FF&style=flat-square&label=VISITORS" />
+<!--<img src="https://komarev.com/ghpvc/?username=ChenyuHeee&color=58A6FF&style=flat-square&label=VISITORS" />-->
 
 </div>
