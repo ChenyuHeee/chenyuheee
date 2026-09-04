@@ -6,7 +6,7 @@
 
 <!-- 社交链接 -->
 <br/>
-<a href="http://hechenyu.xin"><img src="https://img.shields.io/badge/Blog-chenyuheee.github.io-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="http://hechenyu.xin"><img src="https://img.shields.io/badge/Website-HECHENYU.XIN-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 &nbsp;
 <a href="https://github.com/ChenyuHeee"><img src="https://img.shields.io/github/followers/ChenyuHeee?style=for-the-badge&logo=github&color=58A6FF" /></a>
 
