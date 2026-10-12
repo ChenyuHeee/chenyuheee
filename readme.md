@@ -21,14 +21,17 @@ I work on **model inference** and **post-training**.
 
 ### Open source
 
-**[FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)** — serving engine for
-frontier MoE models on desktop hardware.
+<table width="100%">
+<tr><td>
 
-Contributed to the block-FP8 CPU MoE expert GEMV path. Found and fixed a silent-correctness
-bug in the quantization scale-bank stride handling, added an AVX-512F kernel tier for CPUs
-without the BF16 extension, and built a float64 parity harness for the fp8 decode.
-Merged in [#662](https://github.com/FlashML-org/FreeToken/pull/662) (`95ac86f`).
+**[FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)** — serving engine for frontier MoE models on desktop hardware
 
+Contributed to the **block-FP8 CPU MoE expert GEMV** path: found and fixed a silent-correctness bug in the quantization scale-bank stride handling, added an AVX-512F kernel tier for CPUs without the BF16 extension, and built a float64 parity harness for the fp8 decode.
+
+Merged in [#662](https://github.com/FlashML-org/FreeToken/pull/662) &nbsp;·&nbsp; [`95ac86f`](https://github.com/FlashML-org/FreeToken/commit/95ac86f21567bc244c7a9d91972838fbf049b4ed)
+
+</td></tr>
+</table>
 ---
 
 Most other repositories here are tools I wrote for my own use.
